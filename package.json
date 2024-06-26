@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^20.14.8",
+    "typescript": "^5.5.2"
+  },
+  "scripts": {
+    "start": "tsc && node dist"
+  }
+}
